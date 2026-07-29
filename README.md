@@ -13,4 +13,4 @@ En el presente proyecto se analiza el problema de rotación de personal que pres
 
 - Una vez modelada la data, a través de una vista de SQL, se conectó Power BI al gestor de Base de Datos solo para visualizar la información a través del dashboard.
 
-- NOTA: El tablero de Power BI no se puede visualizar en línea, ya que la presente plataforma no lo permite, por lo que para visualizar el dashboard, es necesario hacer la descarga del archivo "Dashboard ejecutivo.pbix" que se encuentra de la carpeta "Vertiente BI"
+- NOTA: El tablero de Power BI no se puede visualizar en línea, ya que la presente plataforma no lo permite (sin embargo, se anexa una imagen muestra del tablero), por lo que para revisar el detalle del dashboard será necesario hacer la descarga del archivo "Dashboard ejecutivo.pbix" que se encuentra de la carpeta "Vertiente BI"
