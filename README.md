@@ -12,3 +12,5 @@ En el presente proyecto se analiza el problema de rotación de personal que pres
 - Posteriormente, el modelado se realizó en el gestor de base de datos, no se hizo en Power BI, esto con la finalidad de hacer más eficiente el dashboard final, ya que el motor de Power Bi no se encargará de modelar la data, sino el gestor de base de datos, ya que para eso está optiomizado.
 
 - Una vez modelada la data, a través de una vista de SQL, se conectó Power BI al gestor de Base de Datos solo para visualizar la información a través del dashboard.
+
+- NOTA: El tablero de Power BI no se puede visualizar en línea, ya que la presente plataforma no lo permite, por lo que para visualizar el dashboard, es necesario hacer la descarga del archivo "Dashboard ejecutivo.pbix" que se encuentra de la carpeta "Vertiente BI"
