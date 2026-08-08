@@ -4,8 +4,7 @@ En el presente proyecto se analiza el problema de rotación de personal que pres
 
 2.- Análisis de Inteligencia de negocios: Cómo complemento al proyecto de ciencia de datos, se anexa también un tablero de Power BI y un reporte xls (Excel), dónde puede ver la estadística descriptiva de la data, además de los KPI´s principales. 
 
-La vertiente de "Inteligencia de negocios" requirió de un proceso de ingeniería más amplio, por lo que dentro de dicha carpeta encontrará los dashboards antes mencionados, archivos ".ipynb", archivos ".sql", un par de imágenes muestra de los dasboard/reportes, así como el documento descriptivo de cómo se realizó el proyecto.
-
+La vertiente de "Inteligencia de negocios" requirió de un proceso de ingeniería más amplio, por lo que dentro de dicha carpeta encontrará los dashboards antes mencionados (los cuales debe descargar para poder interactuar con ellos), archivos ".ipynb" dónde se llevó a cabo el proceso de normalización, archivos ".sql" dónde se contruyó y testeó la base de datos utilizada, así como las tablas y la relacion entre estas, un par de imágenes muestra de los dasboard/reportes, y el documento descriptivo de cómo se realizó el proyecto.
 
 -NOTA: Toda la investigación se desarrolló durante el punto 1 "Vertiente de Ciencia de Datos" , en el archivo ".ipynb".
 
