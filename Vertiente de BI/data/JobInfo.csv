@@ -1,0 +1,1471 @@
+EmployeeNumber,Department,JobRole,JobLevel,BusinessTravel,OverTime
+1,Sales,Sales Executive,2,Travel_Rarely,Yes
+2,Research & Development,Research Scientist,2,Travel_Frequently,No
+4,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+5,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+7,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+8,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+10,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+11,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+12,Research & Development,Manufacturing Director,3,Travel_Frequently,No
+13,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+14,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+15,Research & Development,Laboratory Technician,2,Travel_Rarely,Yes
+16,Research & Development,Research Scientist,1,Travel_Rarely,No
+18,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+19,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+20,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+21,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+22,Research & Development,Laboratory Technician,1,Non-Travel,Yes
+23,Sales,Manager,4,Travel_Rarely,No
+24,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+26,Research & Development,Manufacturing Director,2,Non-Travel,No
+27,Sales,Sales Representative,1,Travel_Rarely,No
+28,Research & Development,Research Director,3,Travel_Rarely,No
+30,Research & Development,Research Scientist,1,Travel_Rarely,No
+31,Research & Development,Research Scientist,1,Travel_Rarely,No
+32,Research & Development,Manager,5,Travel_Rarely,No
+33,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+35,Sales,Sales Executive,2,Travel_Rarely,No
+36,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+38,Sales,Manager,5,Travel_Rarely,No
+39,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+40,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes
+41,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+42,Sales,Sales Representative,2,Travel_Rarely,No
+45,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+46,Research & Development,Research Scientist,1,Travel_Rarely,No
+47,Sales,Sales Representative,1,Travel_Rarely,Yes
+49,Sales,Sales Representative,1,Travel_Rarely,No
+51,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+52,Sales,Sales Executive,2,Travel_Frequently,No
+53,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+54,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+55,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+56,Sales,Sales Executive,3,Travel_Frequently,No
+57,Research & Development,Laboratory Technician,2,Travel_Frequently,No
+58,Research & Development,Research Director,5,Travel_Rarely,No
+60,Sales,Sales Executive,2,Non-Travel,No
+61,Research & Development,Research Scientist,1,Travel_Rarely,No
+62,Sales,Sales Executive,2,Travel_Frequently,Yes
+63,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+64,Research & Development,Laboratory Technician,3,Travel_Rarely,Yes
+65,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+68,Sales,Sales Executive,2,Travel_Rarely,Yes
+70,Research & Development,Healthcare Representative,3,Non-Travel,Yes
+72,Sales,Sales Executive,2,Travel_Rarely,Yes
+73,Research & Development,Research Director,3,Travel_Frequently,Yes
+74,Sales,Sales Executive,3,Travel_Frequently,No
+75,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+76,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+77,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+78,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes
+79,Research & Development,Laboratory Technician,2,Travel_Frequently,No
+80,Research & Development,Research Director,5,Travel_Rarely,Yes
+81,Sales,Sales Executive,3,Travel_Rarely,No
+83,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+84,Research & Development,Manager,4,Travel_Rarely,Yes
+85,Research & Development,Manufacturing Director,2,Travel_Frequently,No
+86,Research & Development,Research Scientist,3,Travel_Rarely,No
+88,Research & Development,Research Scientist,1,Travel_Frequently,No
+90,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+91,Sales,Sales Executive,2,Travel_Frequently,No
+94,Research & Development,Research Scientist,1,Travel_Rarely,No
+95,Research & Development,Research Scientist,1,Travel_Rarely,No
+96,Research & Development,Research Scientist,2,Travel_Rarely,No
+97,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+98,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+100,Sales,Sales Executive,2,Travel_Rarely,No
+101,Research & Development,Research Director,3,Travel_Rarely,Yes
+102,Research & Development,Research Director,3,Travel_Rarely,No
+103,Human Resources,Human Resources,2,Travel_Rarely,Yes
+104,Research & Development,Laboratory Technician,2,Travel_Rarely,Yes
+105,Research & Development,Research Scientist,1,Travel_Rarely,No
+106,Sales,Sales Executive,3,Travel_Rarely,No
+107,Research & Development,Research Scientist,2,Non-Travel,Yes
+110,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+112,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+113,Sales,Sales Representative,1,Travel_Rarely,No
+116,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+117,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+118,Sales,Sales Executive,3,Travel_Rarely,No
+119,Research & Development,Healthcare Representative,4,Travel_Frequently,No
+120,Sales,Sales Executive,2,Travel_Rarely,Yes
+121,Sales,Sales Executive,2,Travel_Rarely,Yes
+124,Research & Development,Healthcare Representative,3,Travel_Frequently,Yes
+125,Sales,Sales Executive,2,Travel_Rarely,No
+126,Research & Development,Research Director,3,Travel_Rarely,No
+128,Sales,Sales Executive,2,Travel_Rarely,No
+129,Sales,Sales Executive,2,Non-Travel,No
+131,Sales,Sales Executive,4,Travel_Rarely,No
+132,Research & Development,Laboratory Technician,2,Non-Travel,No
+133,Human Resources,Human Resources,1,Travel_Rarely,Yes
+134,Research & Development,Research Scientist,1,Travel_Rarely,No
+137,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes
+138,Research & Development,Research Scientist,2,Travel_Rarely,No
+139,Research & Development,Healthcare Representative,2,Non-Travel,No
+140,Human Resources,Manager,5,Non-Travel,No
+141,Research & Development,Research Director,5,Travel_Frequently,Yes
+142,Sales,Sales Executive,2,Travel_Rarely,Yes
+143,Research & Development,Research Scientist,1,Travel_Rarely,No
+144,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+145,Research & Development,Healthcare Representative,3,Travel_Frequently,No
+147,Research & Development,Laboratory Technician,2,Travel_Frequently,Yes
+148,Human Resources,Manager,4,Non-Travel,Yes
+150,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+151,Research & Development,Research Scientist,2,Travel_Rarely,No
+152,Sales,Sales Executive,3,Travel_Rarely,No
+153,Research & Development,Manager,3,Travel_Rarely,No
+154,Sales,Sales Executive,3,Travel_Frequently,No
+155,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+158,Sales,Manager,4,Travel_Frequently,Yes
+159,Research & Development,Research Scientist,1,Travel_Frequently,No
+160,Sales,Sales Executive,2,Non-Travel,No
+161,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+162,Research & Development,Research Director,5,Travel_Rarely,No
+163,Sales,Sales Executive,2,Travel_Rarely,Yes
+164,Research & Development,Research Scientist,1,Travel_Rarely,No
+165,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+167,Sales,Sales Representative,1,Travel_Rarely,Yes
+169,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+170,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+171,Research & Development,Research Scientist,1,Travel_Frequently,No
+174,Sales,Sales Executive,3,Travel_Frequently,No
+175,Sales,Sales Executive,2,Travel_Rarely,Yes
+176,Sales,Sales Executive,3,Travel_Rarely,Yes
+177,Human Resources,Human Resources,1,Travel_Rarely,No
+178,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+179,Research & Development,Manufacturing Director,3,Travel_Frequently,No
+182,Sales,Sales Executive,2,Travel_Rarely,No
+183,Sales,Sales Executive,2,Travel_Rarely,No
+184,Human Resources,Human Resources,2,Travel_Rarely,Yes
+190,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+192,Research & Development,Research Scientist,1,Travel_Rarely,No
+193,Research & Development,Research Scientist,2,Travel_Rarely,Yes
+194,Research & Development,Research Scientist,1,Travel_Rarely,No
+195,Sales,Sales Executive,2,Travel_Frequently,No
+197,Research & Development,Research Scientist,1,Travel_Rarely,No
+198,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+199,Research & Development,Manager,4,Travel_Frequently,No
+200,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+201,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+202,Research & Development,Research Scientist,2,Travel_Frequently,No
+204,Sales,Sales Executive,3,Travel_Rarely,No
+205,Sales,Sales Representative,2,Travel_Rarely,Yes
+206,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+207,Sales,Sales Executive,3,Travel_Frequently,No
+208,Research & Development,Manufacturing Director,2,Non-Travel,No
+211,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+214,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+215,Sales,Sales Executive,3,Travel_Rarely,No
+216,Sales,Sales Representative,1,Travel_Frequently,No
+217,Research & Development,Research Scientist,1,Travel_Rarely,No
+218,Research & Development,Research Scientist,1,Non-Travel,No
+221,Research & Development,Research Scientist,1,Travel_Rarely,No
+223,Research & Development,Healthcare Representative,3,Travel_Rarely,Yes
+224,Research & Development,Research Scientist,1,Non-Travel,Yes
+226,Research & Development,Manager,5,Travel_Rarely,No
+227,Research & Development,Research Scientist,1,Travel_Rarely,No
+228,Sales,Sales Executive,3,Travel_Rarely,No
+230,Sales,Sales Executive,2,Travel_Rarely,No
+231,Research & Development,Research Scientist,1,Travel_Rarely,No
+233,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+235,Sales,Sales Representative,1,Travel_Frequently,No
+238,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+239,Research & Development,Laboratory Technician,2,Non-Travel,No
+240,Sales,Sales Executive,2,Travel_Rarely,Yes
+241,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+242,Research & Development,Research Scientist,1,Travel_Rarely,No
+243,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+244,Sales,Sales Executive,3,Travel_Rarely,No
+245,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+246,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+247,Research & Development,Research Scientist,1,Travel_Rarely,No
+248,Sales,Sales Representative,1,Travel_Rarely,Yes
+249,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+250,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+252,Research & Development,Research Scientist,1,Travel_Rarely,No
+253,Research & Development,Manager,5,Travel_Rarely,No
+254,Research & Development,Research Director,5,Travel_Rarely,No
+256,Research & Development,Manufacturing Director,2,Travel_Frequently,No
+258,Research & Development,Healthcare Representative,4,Travel_Rarely,No
+259,Research & Development,Manager,5,Travel_Rarely,No
+260,Research & Development,Research Scientist,1,Travel_Rarely,No
+261,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes
+262,Research & Development,Research Scientist,1,Non-Travel,No
+264,Research & Development,Manager,4,Non-Travel,No
+267,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+269,Research & Development,Laboratory Technician,2,Travel_Frequently,No
+270,Research & Development,Manufacturing Director,2,Non-Travel,No
+271,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+273,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+274,Research & Development,Manufacturing Director,2,Travel_Frequently,No
+275,Research & Development,Manufacturing Director,2,Non-Travel,Yes
+277,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+281,Research & Development,Laboratory Technician,2,Travel_Rarely,Yes
+282,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes
+283,Sales,Sales Executive,3,Travel_Rarely,No
+284,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+286,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+287,Research & Development,Healthcare Representative,2,Non-Travel,No
+288,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+291,Sales,Sales Executive,3,Travel_Rarely,No
+292,Research & Development,Manufacturing Director,3,Non-Travel,No
+293,Sales,Sales Executive,2,Travel_Frequently,No
+296,Research & Development,Research Director,3,Travel_Rarely,No
+297,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+298,Sales,Manager,3,Travel_Rarely,Yes
+299,Sales,Sales Executive,2,Travel_Frequently,No
+300,Research & Development,Research Scientist,1,Travel_Rarely,No
+302,Sales,Sales Executive,3,Non-Travel,No
+303,Sales,Sales Executive,2,Travel_Rarely,No
+304,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+305,Research & Development,Research Scientist,1,Travel_Rarely,No
+306,Research & Development,Research Director,3,Travel_Frequently,Yes
+307,Sales,Sales Executive,3,Travel_Rarely,No
+308,Research & Development,Manufacturing Director,2,Non-Travel,No
+309,Research & Development,Research Scientist,1,Travel_Rarely,No
+311,Sales,Sales Representative,1,Travel_Frequently,No
+312,Sales,Sales Executive,3,Travel_Frequently,No
+314,Sales,Sales Executive,3,Travel_Frequently,No
+315,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+316,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+319,Research & Development,Manager,5,Travel_Rarely,No
+321,Human Resources,Human Resources,1,Travel_Rarely,No
+323,Sales,Manager,5,Travel_Rarely,No
+325,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+327,Sales,Manager,4,Travel_Rarely,Yes
+328,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+329,Sales,Manager,5,Non-Travel,Yes
+330,Sales,Sales Representative,1,Travel_Rarely,No
+331,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+332,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+333,Sales,Sales Executive,2,Non-Travel,No
+334,Research & Development,Research Scientist,2,Travel_Rarely,No
+335,Research & Development,Research Scientist,2,Travel_Rarely,No
+336,Research & Development,Manager,5,Travel_Rarely,No
+337,Research & Development,Research Director,3,Travel_Frequently,No
+338,Research & Development,Research Scientist,1,Travel_Rarely,No
+339,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+340,Research & Development,Research Scientist,1,Travel_Rarely,No
+341,Research & Development,Manufacturing Director,2,Travel_Frequently,No
+342,Research & Development,Manufacturing Director,3,Travel_Frequently,No
+343,Research & Development,Healthcare Representative,3,Travel_Frequently,No
+346,Research & Development,Research Scientist,1,Travel_Rarely,No
+347,Research & Development,Research Scientist,2,Travel_Rarely,Yes
+349,Sales,Sales Executive,2,Travel_Rarely,No
+350,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+351,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+352,Research & Development,Research Director,5,Travel_Rarely,No
+353,Research & Development,Research Scientist,1,Travel_Rarely,No
+355,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+359,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+361,Sales,Sales Executive,2,Non-Travel,No
+362,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+363,Sales,Manager,4,Travel_Rarely,Yes
+364,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+366,Sales,Sales Executive,2,Travel_Rarely,No
+367,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+369,Research & Development,Healthcare Representative,2,Non-Travel,No
+372,Research & Development,Healthcare Representative,4,Travel_Rarely,Yes
+373,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+374,Research & Development,Manager,5,Travel_Rarely,Yes
+376,Research & Development,Manager,3,Non-Travel,Yes
+377,Research & Development,Research Scientist,1,Travel_Rarely,No
+378,Sales,Sales Executive,2,Travel_Rarely,No
+379,Research & Development,Research Scientist,1,Travel_Rarely,No
+380,Research & Development,Research Director,3,Non-Travel,Yes
+381,Research & Development,Manager,3,Travel_Rarely,No
+382,Sales,Sales Executive,2,Travel_Rarely,Yes
+384,Research & Development,Manufacturing Director,2,Travel_Frequently,No
+385,Research & Development,Research Director,5,Travel_Rarely,No
+386,Research & Development,Research Director,4,Travel_Rarely,Yes
+387,Sales,Sales Executive,2,Travel_Rarely,No
+388,Sales,Sales Executive,2,Travel_Frequently,No
+389,Research & Development,Laboratory Technician,2,Travel_Rarely,Yes
+390,Research & Development,Healthcare Representative,2,Travel_Frequently,Yes
+391,Research & Development,Research Scientist,1,Travel_Rarely,No
+392,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes
+393,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+394,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+395,Research & Development,Research Scientist,1,Travel_Rarely,No
+396,Research & Development,Research Director,5,Travel_Frequently,Yes
+397,Research & Development,Research Scientist,2,Travel_Rarely,No
+399,Sales,Sales Representative,1,Travel_Frequently,No
+401,Sales,Sales Executive,2,Travel_Rarely,Yes
+403,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+404,Sales,Sales Executive,4,Travel_Frequently,No
+405,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+406,Sales,Sales Executive,3,Travel_Rarely,No
+407,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+408,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+410,Sales,Manager,4,Travel_Rarely,No
+411,Sales,Sales Representative,1,Travel_Rarely,No
+412,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+416,Sales,Sales Executive,2,Travel_Rarely,No
+417,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+419,Research & Development,Laboratory Technician,2,Non-Travel,No
+420,Sales,Sales Executive,2,Travel_Rarely,No
+421,Research & Development,Research Director,3,Travel_Rarely,No
+422,Research & Development,Healthcare Representative,2,Non-Travel,Yes
+423,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+424,Human Resources,Human Resources,2,Travel_Rarely,No
+425,Research & Development,Laboratory Technician,3,Travel_Frequently,No
+426,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+428,Research & Development,Manager,3,Travel_Frequently,No
+429,Research & Development,Manager,4,Travel_Rarely,Yes
+430,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+431,Research & Development,Healthcare Representative,4,Travel_Rarely,Yes
+433,Research & Development,Research Scientist,2,Travel_Rarely,No
+434,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+436,Sales,Sales Executive,2,Travel_Rarely,Yes
+437,Sales,Sales Executive,2,Travel_Rarely,Yes
+438,Sales,Sales Executive,2,Travel_Rarely,No
+439,Research & Development,Research Scientist,2,Travel_Rarely,No
+440,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+441,Research & Development,Research Scientist,2,Travel_Rarely,No
+442,Research & Development,Manufacturing Director,3,Travel_Frequently,No
+444,Research & Development,Manager,5,Travel_Frequently,No
+445,Sales,Sales Executive,2,Travel_Rarely,Yes
+446,Sales,Sales Executive,2,Travel_Frequently,No
+447,Research & Development,Research Director,5,Travel_Rarely,No
+448,Research & Development,Laboratory Technician,2,Travel_Frequently,No
+449,Sales,Sales Executive,2,Non-Travel,Yes
+450,Research & Development,Research Scientist,2,Travel_Frequently,No
+451,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+452,Research & Development,Research Scientist,2,Travel_Rarely,No
+453,Sales,Sales Executive,2,Travel_Rarely,Yes
+454,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+455,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+456,Sales,Sales Executive,2,Travel_Rarely,No
+458,Sales,Sales Executive,2,Travel_Rarely,No
+460,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+461,Research & Development,Research Director,3,Travel_Rarely,Yes
+462,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes
+463,Sales,Sales Executive,2,Travel_Rarely,Yes
+464,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+465,Research & Development,Research Scientist,1,Travel_Rarely,No
+466,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes
+467,Sales,Sales Representative,2,Travel_Frequently,No
+468,Research & Development,Research Director,4,Travel_Rarely,No
+469,Sales,Sales Executive,2,Non-Travel,No
+470,Human Resources,Human Resources,1,Travel_Rarely,Yes
+471,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+473,Sales,Manager,3,Travel_Rarely,No
+474,Research & Development,Research Scientist,2,Travel_Rarely,Yes
+475,Sales,Sales Executive,2,Non-Travel,Yes
+476,Sales,Sales Executive,2,Travel_Rarely,No
+477,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+478,Sales,Sales Representative,1,Travel_Frequently,Yes
+479,Sales,Sales Executive,2,Non-Travel,No
+481,Sales,Sales Executive,3,Travel_Frequently,No
+482,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+483,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+484,Sales,Sales Representative,1,Non-Travel,No
+485,Sales,Sales Representative,1,Travel_Rarely,Yes
+486,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+487,Research & Development,Manufacturing Director,2,Non-Travel,No
+488,Sales,Sales Executive,2,Travel_Frequently,No
+491,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+492,Sales,Sales Executive,2,Travel_Rarely,Yes
+493,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+494,Sales,Sales Representative,1,Travel_Rarely,No
+495,Research & Development,Research Scientist,1,Travel_Rarely,No
+496,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+497,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+498,Sales,Sales Executive,2,Travel_Rarely,No
+499,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+500,Sales,Sales Executive,2,Travel_Rarely,No
+501,Research & Development,Research Scientist,1,Travel_Rarely,No
+502,Sales,Sales Executive,2,Non-Travel,Yes
+505,Research & Development,Manager,4,Travel_Rarely,Yes
+507,Sales,Sales Executive,2,Travel_Rarely,Yes
+508,Sales,Sales Representative,1,Travel_Rarely,No
+510,Research & Development,Research Scientist,1,Travel_Frequently,No
+511,Research & Development,Research Scientist,1,Travel_Rarely,No
+513,Sales,Sales Executive,3,Travel_Rarely,No
+514,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+515,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+516,Sales,Sales Executive,2,Travel_Rarely,No
+517,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+518,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes
+520,Research & Development,Research Director,4,Travel_Rarely,No
+521,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+522,Research & Development,Research Director,5,Travel_Rarely,No
+523,Sales,Sales Executive,2,Non-Travel,No
+524,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+525,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+526,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes
+527,Sales,Sales Executive,2,Travel_Rarely,Yes
+529,Research & Development,Research Scientist,2,Non-Travel,Yes
+530,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+531,Research & Development,Manager,5,Travel_Frequently,Yes
+532,Sales,Sales Executive,4,Travel_Frequently,No
+533,Sales,Sales Executive,2,Travel_Rarely,No
+534,Sales,Sales Executive,3,Travel_Rarely,No
+536,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+538,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+543,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes
+544,Research & Development,Research Scientist,1,Travel_Rarely,No
+546,Research & Development,Manager,4,Travel_Rarely,No
+547,Research & Development,Research Scientist,2,Travel_Frequently,No
+548,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+549,Research & Development,Manager,5,Travel_Rarely,No
+550,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+551,Research & Development,Healthcare Representative,2,Travel_Frequently,No
+554,Sales,Sales Representative,1,Travel_Rarely,Yes
+555,Sales,Sales Representative,1,Travel_Frequently,No
+556,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes
+558,Sales,Manager,5,Travel_Rarely,No
+560,Research & Development,Research Scientist,1,Travel_Rarely,No
+562,Research & Development,Laboratory Technician,1,Non-Travel,No
+564,Research & Development,Research Director,3,Travel_Rarely,No
+565,Research & Development,Research Scientist,1,Travel_Rarely,No
+566,Human Resources,Human Resources,1,Travel_Rarely,No
+567,Sales,Sales Executive,3,Non-Travel,No
+568,Sales,Manager,4,Travel_Rarely,No
+569,Research & Development,Manager,4,Travel_Rarely,No
+571,Research & Development,Laboratory Technician,1,Non-Travel,No
+573,Sales,Sales Executive,3,Travel_Frequently,No
+574,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+575,Research & Development,Research Director,4,Travel_Rarely,No
+577,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+578,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+579,Research & Development,Research Scientist,1,Travel_Rarely,No
+580,Sales,Sales Executive,3,Travel_Rarely,Yes
+581,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+582,Research & Development,Manager,3,Travel_Rarely,Yes
+584,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+585,Sales,Sales Representative,1,Travel_Rarely,No
+586,Research & Development,Healthcare Representative,3,Travel_Rarely,Yes
+587,Research & Development,Healthcare Representative,3,Travel_Frequently,No
+590,Human Resources,Human Resources,3,Travel_Frequently,Yes
+591,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+592,Sales,Sales Executive,3,Non-Travel,No
+593,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+595,Sales,Sales Executive,2,Travel_Rarely,No
+597,Sales,Manager,4,Travel_Rarely,No
+599,Sales,Sales Executive,2,Non-Travel,No
+600,Sales,Sales Executive,2,Travel_Rarely,No
+601,Research & Development,Manufacturing Director,4,Travel_Rarely,No
+602,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+604,Sales,Sales Executive,2,Travel_Rarely,Yes
+605,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes
+606,Sales,Sales Executive,2,Travel_Rarely,No
+608,Human Resources,Human Resources,1,Travel_Frequently,Yes
+611,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+612,Research & Development,Research Director,4,Travel_Rarely,No
+613,Sales,Manager,3,Travel_Rarely,No
+614,Sales,Sales Representative,1,Travel_Frequently,Yes
+615,Sales,Sales Executive,3,Non-Travel,No
+616,Research & Development,Healthcare Representative,2,Non-Travel,Yes
+618,Sales,Sales Executive,2,Travel_Rarely,No
+620,Sales,Sales Executive,2,Travel_Rarely,No
+621,Sales,Sales Executive,2,Travel_Rarely,No
+622,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+623,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+624,Research & Development,Healthcare Representative,3,Travel_Frequently,No
+625,Sales,Manager,4,Travel_Rarely,No
+626,Sales,Sales Executive,3,Non-Travel,No
+630,Research & Development,Research Scientist,2,Travel_Rarely,Yes
+631,Sales,Sales Executive,2,Non-Travel,No
+632,Sales,Sales Representative,1,Travel_Frequently,No
+634,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+635,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+638,Research & Development,Research Director,5,Travel_Rarely,Yes
+639,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+641,Sales,Sales Executive,2,Travel_Rarely,No
+643,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+644,Human Resources,Manager,5,Travel_Frequently,No
+645,Sales,Sales Representative,1,Travel_Rarely,No
+647,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes
+648,Sales,Sales Representative,1,Travel_Frequently,No
+649,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+650,Sales,Sales Executive,2,Travel_Rarely,No
+652,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+653,Sales,Sales Executive,2,Travel_Rarely,No
+655,Research & Development,Research Scientist,1,Travel_Rarely,No
+656,Sales,Sales Executive,2,Travel_Rarely,Yes
+657,Research & Development,Research Scientist,1,Travel_Rarely,No
+659,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+661,Research & Development,Research Director,4,Travel_Rarely,Yes
+662,Research & Development,Research Scientist,1,Travel_Rarely,No
+663,Research & Development,Laboratory Technician,2,Travel_Frequently,Yes
+664,Research & Development,Manager,4,Travel_Rarely,No
+665,Human Resources,Human Resources,2,Travel_Rarely,No
+666,Sales,Sales Representative,1,Travel_Rarely,Yes
+667,Sales,Sales Representative,1,Travel_Rarely,No
+669,Sales,Sales Representative,1,Travel_Rarely,No
+671,Research & Development,Manager,5,Travel_Rarely,Yes
+675,Research & Development,Research Scientist,1,Travel_Rarely,No
+677,Sales,Sales Executive,2,Travel_Rarely,No
+679,Research & Development,Research Scientist,2,Travel_Rarely,Yes
+680,Research & Development,Research Scientist,1,Travel_Frequently,No
+682,Sales,Sales Executive,2,Travel_Rarely,No
+683,Research & Development,Research Scientist,1,Travel_Rarely,No
+684,Sales,Sales Executive,2,Travel_Frequently,No
+686,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+689,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+690,Sales,Sales Executive,2,Travel_Rarely,No
+691,Research & Development,Research Scientist,2,Travel_Rarely,No
+692,Research & Development,Healthcare Representative,2,Travel_Frequently,No
+698,Human Resources,Human Resources,3,Travel_Rarely,No
+699,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes
+700,Research & Development,Research Scientist,1,Travel_Rarely,No
+701,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+702,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+704,Research & Development,Laboratory Technician,1,Non-Travel,No
+705,Research & Development,Research Scientist,1,Travel_Rarely,No
+707,Sales,Sales Executive,2,Travel_Rarely,No
+709,Sales,Sales Executive,2,Travel_Rarely,No
+710,Research & Development,Research Scientist,1,Travel_Frequently,No
+712,Sales,Sales Executive,2,Travel_Rarely,No
+714,Sales,Sales Executive,2,Travel_Frequently,Yes
+715,Research & Development,Research Scientist,1,Travel_Rarely,No
+716,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+717,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+720,Sales,Sales Executive,2,Travel_Rarely,No
+721,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+722,Sales,Sales Executive,2,Travel_Rarely,No
+723,Sales,Sales Executive,2,Travel_Frequently,Yes
+724,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+725,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+727,Research & Development,Research Director,3,Travel_Rarely,No
+728,Sales,Sales Executive,2,Travel_Rarely,No
+729,Sales,Sales Executive,3,Travel_Frequently,Yes
+730,Research & Development,Research Director,4,Travel_Rarely,No
+731,Human Resources,Manager,5,Travel_Rarely,No
+732,Sales,Sales Executive,2,Travel_Rarely,No
+733,Research & Development,Manufacturing Director,3,Travel_Frequently,No
+734,Human Resources,Manager,5,Travel_Rarely,No
+738,Sales,Sales Representative,1,Travel_Rarely,No
+741,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+742,Research & Development,Research Director,3,Non-Travel,No
+743,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes
+744,Research & Development,Laboratory Technician,1,Non-Travel,No
+746,Sales,Sales Executive,4,Travel_Frequently,Yes
+747,Sales,Sales Executive,2,Travel_Rarely,No
+749,Sales,Sales Representative,1,Travel_Rarely,No
+752,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+754,Sales,Sales Executive,2,Travel_Frequently,No
+757,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+758,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+760,Human Resources,Human Resources,2,Travel_Rarely,No
+762,Research & Development,Healthcare Representative,4,Travel_Rarely,No
+763,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+764,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+766,Sales,Sales Representative,1,Travel_Rarely,No
+769,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+771,Research & Development,Healthcare Representative,2,Non-Travel,No
+772,Research & Development,Laboratory Technician,2,Travel_Frequently,No
+773,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+775,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+776,Sales,Manager,4,Travel_Rarely,No
+780,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+781,Sales,Sales Executive,2,Travel_Rarely,No
+783,Sales,Sales Representative,2,Travel_Rarely,No
+784,Research & Development,Research Scientist,1,Travel_Rarely,No
+785,Sales,Sales Executive,2,Travel_Frequently,Yes
+786,Sales,Sales Executive,2,Travel_Rarely,No
+787,Research & Development,Manager,5,Travel_Rarely,Yes
+789,Sales,Sales Executive,3,Non-Travel,No
+791,Research & Development,Research Scientist,1,Non-Travel,No
+792,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+793,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+796,Sales,Sales Executive,2,Travel_Rarely,No
+797,Research & Development,Research Scientist,1,Travel_Rarely,No
+799,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes
+800,Sales,Sales Executive,2,Travel_Frequently,No
+802,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+803,Research & Development,Manufacturing Director,2,Travel_Frequently,Yes
+804,Research & Development,Research Scientist,1,Travel_Rarely,No
+805,Sales,Sales Representative,1,Travel_Rarely,No
+806,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+807,Research & Development,Healthcare Representative,2,Travel_Frequently,No
+808,Sales,Sales Executive,2,Travel_Rarely,No
+809,Research & Development,Manager,5,Travel_Frequently,No
+811,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+812,Research & Development,Laboratory Technician,1,Non-Travel,No
+813,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+815,Research & Development,Research Director,4,Travel_Rarely,No
+816,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+817,Research & Development,Research Director,3,Travel_Rarely,No
+819,Sales,Sales Executive,2,Travel_Rarely,No
+820,Research & Development,Manager,4,Travel_Rarely,Yes
+823,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+824,Research & Development,Research Scientist,1,Travel_Rarely,No
+825,Research & Development,Research Director,5,Travel_Rarely,Yes
+826,Research & Development,Research Scientist,1,Travel_Rarely,No
+827,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes
+828,Research & Development,Research Scientist,1,Travel_Rarely,No
+829,Human Resources,Human Resources,1,Travel_Rarely,No
+830,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+832,Research & Development,Laboratory Technician,2,Travel_Frequently,No
+833,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes
+834,Research & Development,Research Scientist,1,Travel_Rarely,No
+836,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+837,Research & Development,Healthcare Representative,2,Travel_Frequently,No
+838,Research & Development,Research Scientist,1,Travel_Frequently,No
+840,Sales,Sales Executive,3,Travel_Rarely,No
+842,Sales,Sales Executive,2,Travel_Rarely,No
+843,Research & Development,Research Director,4,Travel_Rarely,No
+844,Research & Development,Research Director,3,Travel_Rarely,Yes
+845,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+846,Sales,Sales Executive,2,Travel_Rarely,Yes
+847,Human Resources,Human Resources,1,Travel_Rarely,No
+848,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+850,Research & Development,Research Scientist,1,Non-Travel,No
+851,Sales,Manager,4,Travel_Rarely,No
+852,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+854,Research & Development,Research Scientist,1,Travel_Rarely,No
+855,Sales,Sales Executive,2,Travel_Rarely,No
+856,Research & Development,Research Scientist,1,Travel_Rarely,No
+857,Sales,Sales Executive,2,Travel_Rarely,Yes
+859,Sales,Sales Executive,2,Travel_Rarely,No
+861,Research & Development,Research Scientist,1,Travel_Frequently,No
+862,Sales,Sales Executive,3,Travel_Rarely,Yes
+864,Sales,Sales Executive,3,Travel_Rarely,Yes
+865,Research & Development,Research Scientist,2,Travel_Rarely,No
+867,Research & Development,Manufacturing Director,4,Travel_Frequently,No
+868,Sales,Sales Executive,2,Travel_Rarely,No
+869,Human Resources,Human Resources,1,Travel_Rarely,No
+872,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+874,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+875,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+878,Human Resources,Human Resources,1,Travel_Rarely,No
+879,Sales,Sales Executive,2,Travel_Rarely,Yes
+880,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes
+881,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+882,Research & Development,Laboratory Technician,1,Non-Travel,No
+885,Sales,Sales Executive,2,Travel_Rarely,No
+887,Research & Development,Research Scientist,1,Travel_Rarely,No
+888,Research & Development,Laboratory Technician,1,Non-Travel,No
+889,Sales,Sales Executive,2,Travel_Frequently,No
+893,Sales,Sales Representative,1,Travel_Rarely,No
+894,Research & Development,Laboratory Technician,2,Travel_Rarely,Yes
+895,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+896,Sales,Sales Representative,1,Travel_Rarely,Yes
+897,Sales,Sales Executive,4,Travel_Rarely,No
+899,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+900,Sales,Sales Representative,1,Travel_Frequently,No
+901,Research & Development,Research Director,4,Travel_Rarely,No
+902,Research & Development,Healthcare Representative,2,Travel_Frequently,No
+903,Sales,Sales Executive,2,Travel_Rarely,Yes
+904,Sales,Sales Executive,3,Non-Travel,Yes
+905,Research & Development,Manager,4,Non-Travel,No
+909,Human Resources,Human Resources,2,Travel_Rarely,No
+910,Human Resources,Human Resources,1,Travel_Rarely,Yes
+911,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+912,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+913,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+916,Sales,Sales Executive,2,Travel_Rarely,No
+918,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes
+920,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+922,Sales,Sales Representative,1,Travel_Rarely,No
+923,Research & Development,Research Scientist,1,Travel_Rarely,No
+924,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes
+925,Sales,Sales Representative,1,Travel_Rarely,Yes
+926,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes
+927,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+930,Research & Development,Research Scientist,1,Travel_Rarely,No
+932,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+933,Research & Development,Research Scientist,1,Travel_Rarely,No
+934,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+936,Sales,Sales Executive,2,Travel_Rarely,No
+939,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+940,Research & Development,Healthcare Representative,3,Travel_Rarely,Yes
+941,Sales,Sales Representative,1,Travel_Rarely,No
+942,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes
+944,Research & Development,Laboratory Technician,3,Travel_Rarely,No
+945,Research & Development,Research Scientist,1,Travel_Rarely,No
+947,Sales,Sales Executive,2,Non-Travel,No
+949,Research & Development,Research Scientist,1,Travel_Rarely,No
+950,Research & Development,Research Director,3,Travel_Rarely,No
+951,Research & Development,Laboratory Technician,1,Non-Travel,No
+952,Sales,Sales Representative,1,Travel_Rarely,Yes
+954,Sales,Sales Executive,3,Travel_Rarely,No
+956,Sales,Sales Executive,2,Travel_Frequently,No
+957,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+958,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+959,Sales,Sales Representative,1,Travel_Rarely,Yes
+960,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+961,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes
+964,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+966,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+967,Sales,Sales Executive,3,Travel_Rarely,Yes
+969,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+970,Sales,Sales Executive,3,Travel_Rarely,No
+972,Research & Development,Laboratory Technician,2,Non-Travel,No
+974,Sales,Sales Representative,1,Travel_Frequently,No
+975,Sales,Sales Executive,2,Travel_Rarely,No
+976,Research & Development,Manager,4,Travel_Rarely,No
+977,Research & Development,Research Scientist,1,Travel_Rarely,No
+981,Sales,Manager,4,Travel_Rarely,No
+982,Sales,Sales Executive,3,Travel_Rarely,No
+983,Sales,Sales Executive,2,Non-Travel,Yes
+984,Sales,Sales Executive,3,Travel_Rarely,No
+985,Sales,Sales Executive,3,Travel_Rarely,No
+986,Sales,Sales Executive,4,Non-Travel,Yes
+987,Research & Development,Manufacturing Director,2,Travel_Frequently,Yes
+990,Sales,Sales Executive,2,Non-Travel,No
+991,Research & Development,Research Scientist,1,Non-Travel,Yes
+992,Sales,Manager,4,Non-Travel,No
+994,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+995,Research & Development,Research Scientist,1,Travel_Rarely,No
+996,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+997,Research & Development,Research Director,4,Travel_Rarely,No
+998,Research & Development,Healthcare Representative,2,Travel_Frequently,Yes
+999,Research & Development,Research Director,5,Travel_Frequently,No
+1001,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1002,Research & Development,Laboratory Technician,2,Non-Travel,Yes
+1003,Sales,Sales Executive,2,Travel_Rarely,Yes
+1004,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1005,Research & Development,Manufacturing Director,4,Travel_Rarely,Yes
+1006,Research & Development,Research Scientist,1,Travel_Frequently,No
+1007,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+1009,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1010,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+1011,Research & Development,Manufacturing Director,2,Travel_Frequently,No
+1012,Research & Development,Research Scientist,1,Non-Travel,No
+1013,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+1014,Research & Development,Healthcare Representative,3,Travel_Rarely,Yes
+1015,Research & Development,Research Director,3,Travel_Rarely,Yes
+1016,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1017,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+1018,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1019,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1022,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1024,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+1025,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1026,Research & Development,Manufacturing Director,4,Travel_Rarely,No
+1027,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1028,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1029,Sales,Manager,5,Travel_Rarely,No
+1030,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1032,Research & Development,Manufacturing Director,4,Travel_Rarely,Yes
+1033,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1034,Research & Development,Healthcare Representative,2,Travel_Frequently,Yes
+1035,Research & Development,Research Director,5,Non-Travel,No
+1036,Sales,Sales Executive,2,Travel_Rarely,Yes
+1037,Sales,Sales Executive,2,Non-Travel,No
+1038,Sales,Manager,5,Travel_Rarely,No
+1039,Sales,Sales Executive,4,Travel_Rarely,Yes
+1040,Sales,Sales Executive,2,Non-Travel,No
+1042,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1043,Research & Development,Manufacturing Director,3,Travel_Frequently,Yes
+1044,Sales,Sales Representative,1,Non-Travel,No
+1045,Sales,Manager,4,Travel_Rarely,No
+1046,Research & Development,Laboratory Technician,1,Non-Travel,No
+1047,Sales,Sales Executive,2,Travel_Rarely,No
+1048,Sales,Manager,3,Travel_Rarely,Yes
+1049,Human Resources,Human Resources,1,Travel_Rarely,No
+1050,Sales,Sales Executive,3,Travel_Frequently,No
+1052,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+1053,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+1055,Sales,Sales Representative,1,Travel_Rarely,Yes
+1056,Sales,Sales Representative,1,Travel_Rarely,No
+1060,Research & Development,Research Scientist,1,Travel_Frequently,No
+1061,Research & Development,Research Director,5,Travel_Rarely,Yes
+1062,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1066,Sales,Sales Executive,2,Travel_Rarely,No
+1068,Research & Development,Research Scientist,1,Travel_Frequently,No
+1069,Research & Development,Research Director,5,Travel_Rarely,No
+1070,Sales,Sales Executive,3,Travel_Rarely,No
+1071,Research & Development,Research Scientist,1,Travel_Frequently,No
+1073,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+1074,Research & Development,Manager,4,Non-Travel,No
+1076,Sales,Sales Executive,3,Travel_Rarely,No
+1077,Sales,Sales Representative,1,Travel_Frequently,Yes
+1079,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1080,Research & Development,Research Scientist,2,Travel_Rarely,Yes
+1081,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1082,Research & Development,Healthcare Representative,3,Non-Travel,No
+1083,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1084,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1085,Research & Development,Research Scientist,1,Travel_Rarely,No
+1088,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+1092,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+1094,Research & Development,Laboratory Technician,1,Non-Travel,No
+1096,Research & Development,Manufacturing Director,3,Travel_Frequently,No
+1097,Research & Development,Research Scientist,2,Travel_Rarely,No
+1098,Human Resources,Human Resources,3,Travel_Rarely,No
+1099,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+1100,Sales,Sales Executive,3,Travel_Rarely,Yes
+1101,Research & Development,Research Scientist,2,Travel_Frequently,No
+1102,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1103,Research & Development,Healthcare Representative,2,Travel_Frequently,No
+1105,Sales,Sales Executive,2,Travel_Rarely,Yes
+1106,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+1107,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1108,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1109,Research & Development,Manager,4,Travel_Rarely,No
+1111,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+1113,Sales,Sales Executive,2,Travel_Frequently,Yes
+1114,Sales,Sales Executive,2,Travel_Frequently,No
+1115,Research & Development,Research Scientist,1,Non-Travel,No
+1116,Research & Development,Manager,4,Non-Travel,No
+1117,Sales,Sales Executive,2,Non-Travel,No
+1118,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+1119,Sales,Sales Executive,3,Travel_Rarely,Yes
+1120,Research & Development,Research Scientist,1,Travel_Rarely,No
+1121,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+1124,Sales,Manager,4,Travel_Rarely,No
+1125,Sales,Sales Executive,3,Travel_Rarely,No
+1126,Research & Development,Manufacturing Director,3,Travel_Frequently,No
+1127,Research & Development,Healthcare Representative,4,Travel_Frequently,No
+1128,Research & Development,Research Director,5,Travel_Rarely,No
+1131,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1132,Research & Development,Laboratory Technician,2,Non-Travel,No
+1133,Research & Development,Manufacturing Director,2,Non-Travel,No
+1135,Sales,Sales Representative,1,Travel_Frequently,No
+1136,Research & Development,Research Scientist,1,Travel_Rarely,No
+1137,Sales,Sales Executive,2,Travel_Frequently,No
+1138,Sales,Sales Executive,4,Travel_Rarely,No
+1140,Research & Development,Manufacturing Director,2,Travel_Frequently,No
+1143,Research & Development,Research Scientist,1,Travel_Frequently,No
+1148,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+1150,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes
+1152,Human Resources,Human Resources,1,Travel_Rarely,No
+1154,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+1156,Research & Development,Laboratory Technician,1,Non-Travel,No
+1157,Sales,Sales Executive,2,Travel_Rarely,Yes
+1158,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+1160,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+1161,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1162,Research & Development,Research Scientist,1,Travel_Rarely,No
+1163,Sales,Sales Executive,2,Travel_Rarely,No
+1164,Human Resources,Human Resources,1,Travel_Rarely,No
+1165,Sales,Sales Executive,3,Travel_Rarely,No
+1166,Research & Development,Research Director,3,Travel_Frequently,No
+1167,Sales,Sales Executive,4,Travel_Frequently,Yes
+1171,Sales,Sales Executive,2,Travel_Rarely,No
+1172,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1173,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1175,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+1177,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1179,Sales,Sales Executive,2,Travel_Rarely,No
+1180,Research & Development,Research Scientist,2,Travel_Frequently,Yes
+1182,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+1184,Research & Development,Healthcare Representative,2,Travel_Frequently,No
+1185,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+1188,Sales,Sales Executive,2,Travel_Rarely,No
+1190,Sales,Sales Representative,1,Non-Travel,No
+1191,Research & Development,Manager,5,Travel_Rarely,No
+1192,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1193,Research & Development,Research Scientist,1,Travel_Rarely,No
+1195,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1196,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1198,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1200,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1201,Research & Development,Manager,5,Travel_Rarely,No
+1202,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1203,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+1204,Sales,Manager,4,Travel_Rarely,No
+1206,Research & Development,Research Scientist,1,Non-Travel,No
+1207,Human Resources,Human Resources,1,Travel_Rarely,No
+1210,Research & Development,Research Scientist,1,Non-Travel,No
+1211,Sales,Sales Executive,2,Travel_Rarely,No
+1212,Sales,Sales Executive,2,Travel_Frequently,No
+1215,Research & Development,Manager,4,Travel_Frequently,No
+1216,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1217,Research & Development,Research Director,5,Travel_Rarely,No
+1218,Sales,Sales Executive,2,Travel_Rarely,Yes
+1219,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1220,Sales,Sales Executive,2,Travel_Frequently,No
+1221,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1224,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+1225,Research & Development,Research Scientist,2,Travel_Rarely,No
+1226,Sales,Sales Representative,1,Travel_Rarely,No
+1228,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1231,Human Resources,Human Resources,2,Non-Travel,No
+1233,Sales,Sales Executive,2,Travel_Rarely,Yes
+1234,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+1235,Research & Development,Research Scientist,2,Travel_Frequently,Yes
+1237,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes
+1238,Research & Development,Research Scientist,1,Travel_Rarely,No
+1239,Sales,Sales Executive,2,Travel_Rarely,No
+1240,Sales,Sales Executive,2,Travel_Rarely,No
+1241,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1242,Research & Development,Research Director,3,Travel_Frequently,Yes
+1243,Sales,Sales Executive,3,Non-Travel,Yes
+1244,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1245,Research & Development,Manufacturing Director,3,Travel_Frequently,No
+1246,Research & Development,Research Scientist,1,Travel_Rarely,No
+1248,Research & Development,Research Scientist,1,Non-Travel,Yes
+1249,Research & Development,Research Scientist,1,Travel_Rarely,No
+1250,Research & Development,Research Director,4,Travel_Rarely,No
+1251,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes
+1252,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1254,Sales,Sales Executive,2,Travel_Rarely,No
+1255,Research & Development,Research Director,5,Travel_Rarely,No
+1256,Research & Development,Manager,5,Travel_Rarely,No
+1257,Research & Development,Research Scientist,1,Travel_Frequently,No
+1258,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1259,Research & Development,Research Scientist,1,Travel_Rarely,No
+1260,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes
+1263,Research & Development,Research Director,5,Travel_Rarely,No
+1264,Research & Development,Research Director,4,Travel_Rarely,No
+1265,Research & Development,Research Scientist,1,Travel_Rarely,No
+1267,Sales,Manager,5,Travel_Rarely,No
+1268,Sales,Sales Executive,3,Travel_Rarely,Yes
+1269,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1270,Research & Development,Research Scientist,1,Travel_Rarely,No
+1273,Sales,Sales Representative,1,Travel_Frequently,Yes
+1275,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1277,Sales,Manager,5,Travel_Rarely,Yes
+1278,Research & Development,Healthcare Representative,4,Non-Travel,Yes
+1279,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+1280,Sales,Manager,5,Travel_Rarely,No
+1281,Sales,Sales Executive,2,Travel_Rarely,Yes
+1282,Sales,Manager,5,Travel_Frequently,Yes
+1283,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+1285,Research & Development,Laboratory Technician,2,Travel_Frequently,No
+1286,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes
+1288,Research & Development,Manager,5,Travel_Rarely,No
+1289,Human Resources,Human Resources,2,Travel_Frequently,No
+1291,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1292,Research & Development,Research Scientist,2,Travel_Rarely,Yes
+1293,Sales,Sales Executive,3,Travel_Rarely,No
+1294,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes
+1295,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+1296,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes
+1297,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+1298,Research & Development,Manufacturing Director,2,Non-Travel,Yes
+1299,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+1301,Research & Development,Research Scientist,1,Travel_Rarely,No
+1303,Research & Development,Research Scientist,1,Travel_Rarely,No
+1304,Sales,Sales Executive,2,Travel_Rarely,No
+1306,Research & Development,Manager,5,Travel_Frequently,No
+1307,Research & Development,Manager,4,Travel_Rarely,Yes
+1308,Research & Development,Research Scientist,1,Travel_Rarely,No
+1309,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+1310,Research & Development,Research Scientist,1,Travel_Rarely,No
+1311,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+1312,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+1314,Human Resources,Human Resources,1,Travel_Rarely,No
+1315,Research & Development,Laboratory Technician,2,Non-Travel,No
+1317,Research & Development,Research Director,4,Travel_Rarely,Yes
+1318,Sales,Sales Executive,3,Travel_Rarely,Yes
+1319,Sales,Sales Executive,3,Travel_Rarely,Yes
+1321,Research & Development,Manager,3,Travel_Rarely,Yes
+1322,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1324,Sales,Sales Executive,3,Non-Travel,Yes
+1329,Sales,Sales Executive,2,Non-Travel,No
+1331,Sales,Sales Representative,1,Travel_Frequently,Yes
+1333,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1334,Research & Development,Manager,4,Non-Travel,Yes
+1336,Research & Development,Manager,5,Travel_Rarely,No
+1338,Human Resources,Manager,5,Travel_Rarely,No
+1340,Research & Development,Research Scientist,1,Non-Travel,No
+1344,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+1346,Research & Development,Research Scientist,2,Travel_Rarely,No
+1349,Sales,Sales Executive,2,Travel_Frequently,No
+1350,Research & Development,Research Scientist,2,Travel_Frequently,Yes
+1352,Human Resources,Manager,4,Travel_Rarely,Yes
+1355,Sales,Sales Executive,2,Travel_Rarely,No
+1356,Sales,Sales Executive,2,Travel_Rarely,No
+1358,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1360,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes
+1361,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1362,Sales,Sales Executive,2,Travel_Frequently,No
+1363,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+1364,Sales,Sales Representative,1,Travel_Rarely,No
+1367,Research & Development,Manufacturing Director,4,Travel_Rarely,No
+1368,Research & Development,Laboratory Technician,1,Non-Travel,No
+1369,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+1371,Sales,Sales Executive,2,Travel_Frequently,No
+1372,Sales,Sales Executive,4,Travel_Rarely,Yes
+1373,Research & Development,Manufacturing Director,4,Travel_Rarely,Yes
+1374,Research & Development,Research Scientist,1,Non-Travel,No
+1375,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1377,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+1379,Sales,Sales Representative,1,Travel_Frequently,No
+1380,Sales,Sales Executive,2,Travel_Frequently,Yes
+1382,Research & Development,Research Scientist,1,Travel_Frequently,No
+1383,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1387,Sales,Sales Executive,2,Travel_Rarely,No
+1389,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes
+1390,Sales,Sales Executive,2,Travel_Rarely,Yes
+1391,Sales,Sales Executive,3,Travel_Frequently,No
+1392,Research & Development,Research Scientist,2,Travel_Frequently,Yes
+1394,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1395,Sales,Sales Executive,2,Travel_Frequently,No
+1396,Sales,Sales Executive,2,Travel_Rarely,Yes
+1397,Research & Development,Healthcare Representative,3,Non-Travel,No
+1399,Sales,Sales Executive,2,Travel_Rarely,No
+1401,Research & Development,Manufacturing Director,4,Travel_Frequently,Yes
+1402,Research & Development,Research Scientist,2,Travel_Rarely,Yes
+1403,Sales,Sales Executive,2,Travel_Rarely,Yes
+1405,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1407,Research & Development,Research Scientist,1,Travel_Rarely,No
+1408,Human Resources,Manager,4,Travel_Rarely,No
+1409,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1411,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1412,Research & Development,Manufacturing Director,3,Travel_Frequently,No
+1415,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1417,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1419,Human Resources,Human Resources,3,Travel_Rarely,No
+1420,Research & Development,Laboratory Technician,2,Travel_Frequently,No
+1421,Research & Development,Healthcare Representative,3,Travel_Frequently,Yes
+1422,Research & Development,Research Director,4,Travel_Rarely,No
+1423,Research & Development,Research Director,5,Travel_Rarely,Yes
+1424,Research & Development,Research Director,4,Travel_Rarely,No
+1425,Sales,Sales Executive,2,Travel_Rarely,Yes
+1427,Sales,Sales Representative,1,Travel_Frequently,No
+1428,Sales,Sales Executive,2,Travel_Rarely,No
+1430,Research & Development,Research Director,4,Travel_Rarely,No
+1431,Research & Development,Research Scientist,1,Travel_Frequently,No
+1433,Research & Development,Research Scientist,1,Travel_Rarely,No
+1434,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1435,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+1436,Sales,Sales Executive,2,Travel_Rarely,No
+1438,Research & Development,Research Scientist,1,Travel_Rarely,No
+1439,Sales,Sales Representative,1,Travel_Rarely,No
+1440,Research & Development,Laboratory Technician,1,Non-Travel,No
+1441,Research & Development,Research Scientist,1,Travel_Rarely,No
+1443,Research & Development,Research Director,4,Travel_Rarely,No
+1445,Sales,Sales Executive,2,Travel_Rarely,Yes
+1446,Sales,Sales Executive,2,Travel_Rarely,No
+1447,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1448,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1449,Research & Development,Laboratory Technician,2,Non-Travel,No
+1453,Sales,Sales Executive,3,Travel_Rarely,No
+1457,Sales,Sales Executive,3,Travel_Rarely,No
+1458,Research & Development,Laboratory Technician,1,Non-Travel,Yes
+1459,Research & Development,Manufacturing Director,3,Travel_Frequently,No
+1460,Research & Development,Healthcare Representative,3,Travel_Rarely,Yes
+1461,Human Resources,Human Resources,1,Travel_Rarely,No
+1464,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes
+1465,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes
+1466,Sales,Sales Executive,2,Travel_Rarely,No
+1467,Human Resources,Human Resources,1,Travel_Rarely,No
+1468,Research & Development,Research Director,3,Non-Travel,No
+1469,Sales,Sales Executive,2,Travel_Rarely,No
+1471,Research & Development,Laboratory Technician,1,Non-Travel,No
+1472,Research & Development,Research Director,4,Travel_Rarely,No
+1473,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1474,Research & Development,Research Scientist,1,Travel_Rarely,No
+1475,Research & Development,Research Scientist,1,Travel_Rarely,No
+1477,Sales,Sales Executive,2,Travel_Frequently,No
+1478,Sales,Sales Executive,2,Travel_Rarely,No
+1479,Sales,Sales Executive,2,Travel_Rarely,No
+1480,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+1481,Sales,Sales Executive,2,Travel_Frequently,No
+1482,Research & Development,Research Scientist,1,Non-Travel,No
+1483,Research & Development,Research Scientist,2,Travel_Rarely,No
+1484,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+1485,Research & Development,Research Director,4,Travel_Frequently,No
+1486,Sales,Sales Representative,1,Travel_Frequently,No
+1487,Sales,Sales Executive,2,Travel_Frequently,No
+1489,Sales,Sales Executive,2,Travel_Rarely,Yes
+1492,Sales,Sales Representative,1,Travel_Rarely,No
+1494,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes
+1495,Sales,Sales Representative,1,Non-Travel,No
+1496,Research & Development,Manufacturing Director,3,Travel_Frequently,Yes
+1497,Sales,Sales Executive,2,Travel_Rarely,No
+1499,Human Resources,Human Resources,1,Travel_Rarely,No
+1501,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes
+1502,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1503,Sales,Sales Executive,2,Travel_Rarely,Yes
+1504,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+1506,Research & Development,Research Scientist,1,Travel_Rarely,No
+1507,Sales,Sales Executive,2,Travel_Frequently,No
+1509,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+1513,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+1514,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1515,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes
+1516,Research & Development,Manager,3,Travel_Rarely,No
+1520,Research & Development,Manager,4,Travel_Frequently,No
+1522,Research & Development,Research Scientist,1,Travel_Rarely,No
+1523,Research & Development,Research Director,4,Travel_Rarely,No
+1525,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+1527,Sales,Manager,4,Travel_Rarely,No
+1529,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+1533,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+1534,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1535,Sales,Sales Executive,3,Travel_Rarely,Yes
+1537,Research & Development,Research Scientist,1,Travel_Frequently,No
+1539,Research & Development,Research Director,4,Travel_Frequently,Yes
+1541,Sales,Sales Representative,1,Travel_Rarely,Yes
+1542,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1543,Research & Development,Research Scientist,2,Travel_Rarely,No
+1544,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1545,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1546,Research & Development,Research Scientist,1,Travel_Rarely,No
+1547,Research & Development,Healthcare Representative,3,Travel_Frequently,Yes
+1548,Sales,Sales Executive,2,Travel_Rarely,No
+1549,Research & Development,Laboratory Technician,2,Travel_Rarely,Yes
+1550,Human Resources,Manager,4,Travel_Rarely,Yes
+1551,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1552,Research & Development,Healthcare Representative,2,Non-Travel,Yes
+1553,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+1554,Sales,Sales Representative,1,Travel_Rarely,No
+1555,Research & Development,Research Scientist,2,Travel_Rarely,No
+1556,Sales,Sales Representative,1,Travel_Rarely,Yes
+1557,Sales,Sales Executive,2,Travel_Rarely,No
+1558,Research & Development,Research Scientist,1,Travel_Rarely,No
+1560,Sales,Sales Executive,2,Travel_Rarely,No
+1562,Sales,Sales Executive,2,Travel_Rarely,No
+1563,Human Resources,Human Resources,2,Travel_Frequently,No
+1564,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1568,Sales,Sales Executive,3,Travel_Rarely,No
+1569,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+1572,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+1573,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1574,Research & Development,Research Scientist,2,Non-Travel,No
+1576,Research & Development,Research Scientist,1,Travel_Rarely,No
+1577,Research & Development,Research Scientist,1,Travel_Rarely,No
+1578,Sales,Manager,5,Travel_Rarely,No
+1580,Research & Development,Research Scientist,2,Travel_Rarely,No
+1581,Research & Development,Research Scientist,1,Travel_Rarely,No
+1582,Sales,Sales Executive,2,Travel_Rarely,No
+1583,Sales,Sales Executive,2,Travel_Rarely,No
+1585,Sales,Sales Executive,2,Travel_Rarely,No
+1586,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+1587,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes
+1588,Sales,Sales Executive,3,Travel_Rarely,No
+1590,Research & Development,Healthcare Representative,2,Travel_Frequently,No
+1591,Sales,Manager,5,Travel_Rarely,Yes
+1592,Research & Development,Research Scientist,1,Travel_Rarely,No
+1594,Research & Development,Laboratory Technician,2,Travel_Frequently,Yes
+1595,Research & Development,Manager,5,Travel_Rarely,No
+1596,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+1597,Research & Development,Healthcare Representative,2,Travel_Frequently,No
+1598,Sales,Sales Executive,2,Travel_Rarely,No
+1599,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1601,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1602,Sales,Manager,4,Travel_Rarely,No
+1604,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+1605,Research & Development,Research Scientist,1,Non-Travel,Yes
+1606,Research & Development,Healthcare Representative,4,Travel_Frequently,Yes
+1607,Research & Development,Research Scientist,1,Travel_Rarely,No
+1608,Research & Development,Research Director,5,Travel_Rarely,Yes
+1609,Research & Development,Research Scientist,1,Travel_Rarely,No
+1611,Research & Development,Laboratory Technician,2,Travel_Rarely,Yes
+1612,Sales,Sales Executive,2,Non-Travel,No
+1613,Sales,Sales Executive,2,Travel_Frequently,No
+1614,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes
+1615,Research & Development,Manufacturing Director,2,Travel_Frequently,No
+1617,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1618,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1619,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1621,Research & Development,Research Scientist,2,Travel_Rarely,No
+1622,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1623,Research & Development,Research Scientist,1,Travel_Rarely,No
+1624,Sales,Sales Representative,1,Travel_Frequently,Yes
+1625,Human Resources,Manager,5,Travel_Rarely,No
+1627,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+1628,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+1630,Research & Development,Healthcare Representative,2,Non-Travel,No
+1631,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1633,Research & Development,Manufacturing Director,2,Travel_Frequently,No
+1635,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1638,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes
+1639,Sales,Sales Executive,3,Travel_Rarely,No
+1640,Research & Development,Research Scientist,1,Travel_Rarely,No
+1641,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes
+1642,Human Resources,Human Resources,2,Travel_Frequently,Yes
+1644,Research & Development,Manager,4,Travel_Frequently,No
+1645,Sales,Sales Executive,2,Travel_Rarely,Yes
+1646,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+1647,Research & Development,Research Scientist,1,Travel_Rarely,No
+1648,Research & Development,Research Scientist,1,Travel_Frequently,No
+1649,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+1650,Sales,Sales Executive,2,Travel_Rarely,No
+1651,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+1653,Research & Development,Manufacturing Director,2,Travel_Frequently,No
+1654,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1655,Research & Development,Research Director,4,Travel_Rarely,No
+1656,Research & Development,Research Director,3,Travel_Rarely,No
+1657,Sales,Sales Representative,1,Travel_Rarely,No
+1658,Research & Development,Research Scientist,2,Travel_Rarely,No
+1659,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1661,Research & Development,Healthcare Representative,4,Travel_Rarely,Yes
+1662,Research & Development,Manufacturing Director,2,Non-Travel,No
+1664,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1665,Research & Development,Manager,4,Travel_Rarely,No
+1666,Research & Development,Research Director,4,Travel_Rarely,No
+1667,Sales,Sales Executive,2,Travel_Frequently,Yes
+1668,Research & Development,Research Scientist,2,Travel_Frequently,No
+1669,Sales,Sales Executive,2,Travel_Rarely,Yes
+1670,Sales,Sales Executive,2,Travel_Rarely,No
+1671,Research & Development,Research Scientist,2,Travel_Rarely,No
+1673,Sales,Sales Executive,2,Travel_Rarely,No
+1674,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+1675,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+1676,Sales,Manager,4,Travel_Rarely,No
+1677,Research & Development,Manager,4,Travel_Rarely,No
+1678,Sales,Sales Executive,3,Travel_Rarely,Yes
+1680,Sales,Sales Representative,1,Travel_Rarely,No
+1681,Sales,Sales Executive,2,Non-Travel,Yes
+1682,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1683,Human Resources,Human Resources,1,Travel_Rarely,Yes
+1684,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+1687,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1689,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+1691,Sales,Sales Representative,1,Travel_Frequently,Yes
+1692,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1693,Research & Development,Laboratory Technician,1,Non-Travel,No
+1694,Research & Development,Research Scientist,1,Travel_Rarely,No
+1696,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+1697,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+1698,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1700,Sales,Sales Executive,2,Travel_Frequently,No
+1701,Research & Development,Research Scientist,1,Travel_Rarely,No
+1702,Sales,Sales Representative,1,Travel_Rarely,Yes
+1703,Research & Development,Healthcare Representative,3,Travel_Rarely,Yes
+1704,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+1706,Sales,Sales Executive,2,Travel_Rarely,Yes
+1707,Research & Development,Research Scientist,1,Travel_Rarely,No
+1708,Sales,Sales Executive,3,Travel_Rarely,No
+1709,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1710,Sales,Sales Representative,2,Travel_Rarely,No
+1712,Research & Development,Healthcare Representative,3,Non-Travel,No
+1714,Human Resources,Human Resources,1,Travel_Rarely,No
+1716,Sales,Sales Executive,4,Travel_Frequently,No
+1718,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1719,Research & Development,Research Director,4,Travel_Rarely,No
+1720,Research & Development,Research Scientist,1,Travel_Frequently,No
+1721,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1722,Human Resources,Human Resources,2,Non-Travel,No
+1724,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes
+1725,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1727,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1728,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1729,Research & Development,Research Scientist,1,Travel_Rarely,No
+1731,Sales,Sales Executive,2,Non-Travel,No
+1732,Sales,Sales Executive,3,Travel_Rarely,Yes
+1733,Sales,Sales Executive,2,Travel_Rarely,Yes
+1734,Sales,Sales Executive,2,Travel_Rarely,No
+1735,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1736,Research & Development,Manufacturing Director,2,Travel_Frequently,No
+1737,Research & Development,Laboratory Technician,2,Non-Travel,Yes
+1739,Sales,Sales Executive,3,Travel_Rarely,No
+1740,Sales,Manager,5,Travel_Rarely,No
+1744,Human Resources,Human Resources,3,Travel_Rarely,No
+1745,Research & Development,Research Scientist,1,Travel_Frequently,No
+1746,Human Resources,Human Resources,1,Travel_Frequently,No
+1747,Human Resources,Human Resources,1,Travel_Frequently,No
+1749,Sales,Sales Executive,2,Travel_Rarely,No
+1751,Research & Development,Research Scientist,1,Travel_Rarely,No
+1752,Sales,Sales Representative,1,Travel_Rarely,No
+1753,Research & Development,Healthcare Representative,2,Travel_Frequently,Yes
+1754,Sales,Sales Executive,3,Travel_Rarely,No
+1755,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1756,Sales,Sales Executive,2,Non-Travel,No
+1757,Sales,Sales Executive,2,Travel_Rarely,No
+1758,Sales,Sales Executive,3,Travel_Rarely,Yes
+1760,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+1761,Sales,Sales Executive,3,Travel_Rarely,No
+1762,Research & Development,Research Scientist,1,Travel_Rarely,No
+1763,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1764,Research & Development,Research Scientist,1,Non-Travel,No
+1766,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes
+1767,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+1768,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1770,Research & Development,Research Director,5,Travel_Rarely,No
+1771,Research & Development,Research Scientist,2,Non-Travel,No
+1772,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1774,Sales,Sales Executive,2,Non-Travel,Yes
+1775,Research & Development,Manufacturing Director,4,Non-Travel,Yes
+1778,Human Resources,Human Resources,1,Travel_Rarely,No
+1779,Sales,Sales Executive,2,Travel_Rarely,No
+1780,Sales,Sales Representative,1,Travel_Rarely,No
+1782,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1783,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+1784,Sales,Sales Executive,2,Travel_Rarely,No
+1786,Research & Development,Manager,3,Travel_Rarely,No
+1787,Sales,Sales Executive,2,Travel_Rarely,No
+1789,Research & Development,Research Director,5,Travel_Rarely,Yes
+1790,Research & Development,Healthcare Representative,3,Travel_Rarely,Yes
+1792,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+1794,Human Resources,Human Resources,2,Travel_Rarely,No
+1797,Sales,Sales Executive,2,Travel_Rarely,Yes
+1798,Research & Development,Research Scientist,1,Travel_Rarely,No
+1799,Research & Development,Research Scientist,1,Travel_Rarely,No
+1800,Research & Development,Research Director,3,Travel_Rarely,No
+1801,Sales,Sales Executive,2,Non-Travel,No
+1802,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1803,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1804,Research & Development,Manufacturing Director,2,Non-Travel,No
+1805,Human Resources,Human Resources,1,Non-Travel,No
+1807,Research & Development,Laboratory Technician,2,Travel_Frequently,No
+1809,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1812,Sales,Sales Executive,2,Travel_Frequently,No
+1813,Research & Development,Research Scientist,1,Non-Travel,No
+1814,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1815,Sales,Sales Executive,3,Travel_Rarely,Yes
+1816,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+1818,Human Resources,Human Resources,1,Travel_Rarely,Yes
+1821,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1822,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1823,Sales,Sales Executive,2,Travel_Rarely,No
+1824,Sales,Manager,4,Non-Travel,No
+1826,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1827,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes
+1829,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1830,Research & Development,Research Scientist,2,Travel_Rarely,No
+1833,Sales,Sales Executive,3,Travel_Frequently,No
+1834,Research & Development,Research Scientist,1,Travel_Rarely,No
+1835,Sales,Sales Representative,2,Travel_Rarely,Yes
+1836,Sales,Sales Executive,2,Travel_Rarely,No
+1837,Research & Development,Research Director,4,Travel_Frequently,Yes
+1839,Research & Development,Research Scientist,1,Non-Travel,No
+1842,Human Resources,Human Resources,1,Travel_Rarely,No
+1844,Human Resources,Human Resources,1,Travel_Rarely,Yes
+1845,Sales,Sales Executive,2,Non-Travel,No
+1847,Research & Development,Research Scientist,2,Travel_Rarely,Yes
+1849,Sales,Sales Executive,2,Travel_Frequently,No
+1850,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes
+1852,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+1853,Sales,Sales Executive,2,Travel_Frequently,No
+1854,Research & Development,Research Scientist,1,Non-Travel,No
+1856,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1857,Research & Development,Manufacturing Director,3,Travel_Rarely,No
+1858,Human Resources,Human Resources,1,Non-Travel,No
+1859,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1860,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1862,Sales,Sales Executive,2,Travel_Rarely,Yes
+1863,Sales,Sales Executive,4,Travel_Rarely,No
+1864,Sales,Sales Representative,2,Travel_Rarely,No
+1865,Human Resources,Human Resources,1,Travel_Rarely,No
+1866,Research & Development,Manager,5,Travel_Rarely,No
+1867,Research & Development,Research Director,5,Travel_Rarely,No
+1868,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+1869,Sales,Sales Executive,3,Travel_Rarely,No
+1870,Research & Development,Research Scientist,1,Travel_Frequently,No
+1871,Research & Development,Research Scientist,2,Travel_Rarely,No
+1873,Research & Development,Research Scientist,1,Travel_Rarely,No
+1875,Sales,Sales Representative,1,Travel_Rarely,No
+1876,Sales,Sales Representative,1,Travel_Rarely,No
+1878,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1880,Sales,Sales Executive,2,Travel_Rarely,Yes
+1881,Research & Development,Laboratory Technician,2,Travel_Rarely,No
+1882,Sales,Sales Executive,3,Travel_Rarely,Yes
+1883,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1885,Research & Development,Research Scientist,2,Travel_Rarely,Yes
+1886,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes
+1888,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1890,Human Resources,Human Resources,2,Travel_Frequently,No
+1892,Research & Development,Manager,4,Travel_Rarely,No
+1893,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+1898,Sales,Sales Executive,2,Travel_Rarely,No
+1900,Research & Development,Manager,4,Travel_Frequently,No
+1903,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1905,Research & Development,Research Scientist,1,Non-Travel,Yes
+1907,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1908,Sales,Sales Executive,2,Travel_Rarely,No
+1909,Sales,Sales Executive,2,Travel_Rarely,No
+1911,Research & Development,Research Director,3,Travel_Rarely,No
+1912,Sales,Sales Executive,2,Travel_Rarely,Yes
+1915,Sales,Sales Executive,2,Travel_Rarely,Yes
+1916,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1918,Research & Development,Laboratory Technician,1,Travel_Frequently,No
+1922,Research & Development,Healthcare Representative,2,Travel_Frequently,No
+1924,Sales,Sales Executive,2,Travel_Rarely,No
+1927,Sales,Sales Executive,2,Travel_Frequently,Yes
+1928,Sales,Sales Representative,1,Travel_Frequently,No
+1929,Sales,Sales Executive,2,Non-Travel,No
+1931,Research & Development,Research Scientist,1,Travel_Rarely,No
+1932,Research & Development,Research Scientist,2,Travel_Frequently,Yes
+1933,Sales,Sales Executive,2,Travel_Rarely,Yes
+1934,Research & Development,Research Scientist,2,Non-Travel,No
+1935,Sales,Sales Executive,2,Travel_Rarely,No
+1936,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1937,Research & Development,Research Scientist,2,Travel_Frequently,Yes
+1938,Sales,Manager,4,Travel_Rarely,Yes
+1939,Research & Development,Research Scientist,1,Travel_Frequently,Yes
+1940,Research & Development,Research Scientist,1,Travel_Rarely,No
+1941,Research & Development,Research Director,5,Travel_Frequently,No
+1943,Sales,Sales Executive,2,Travel_Rarely,Yes
+1944,Human Resources,Human Resources,1,Travel_Frequently,No
+1945,Sales,Sales Executive,2,Travel_Rarely,No
+1947,Research & Development,Research Scientist,1,Non-Travel,No
+1948,Research & Development,Research Scientist,1,Non-Travel,Yes
+1949,Research & Development,Laboratory Technician,1,Non-Travel,No
+1950,Sales,Sales Executive,3,Travel_Rarely,No
+1951,Sales,Sales Executive,3,Travel_Rarely,No
+1952,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1954,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1955,Research & Development,Healthcare Representative,2,Non-Travel,No
+1956,Research & Development,Research Scientist,2,Travel_Frequently,No
+1960,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1961,Sales,Sales Representative,1,Travel_Rarely,No
+1962,Sales,Sales Executive,2,Travel_Rarely,Yes
+1965,Sales,Sales Executive,2,Travel_Rarely,No
+1966,Research & Development,Manufacturing Director,2,Travel_Rarely,No
+1967,Sales,Sales Executive,2,Travel_Frequently,Yes
+1968,Sales,Sales Executive,3,Travel_Rarely,Yes
+1969,Research & Development,Research Scientist,2,Travel_Rarely,No
+1970,Research & Development,Healthcare Representative,2,Travel_Frequently,No
+1971,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+1972,Human Resources,Human Resources,1,Travel_Frequently,Yes
+1973,Human Resources,Manager,5,Travel_Rarely,Yes
+1974,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+1975,Sales,Sales Executive,4,Travel_Rarely,No
+1976,Research & Development,Research Scientist,2,Non-Travel,No
+1979,Research & Development,Research Director,3,Non-Travel,No
+1980,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes
+1981,Research & Development,Healthcare Representative,2,Travel_Rarely,No
+1982,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1985,Research & Development,Laboratory Technician,2,Travel_Frequently,No
+1986,Sales,Sales Executive,2,Travel_Rarely,No
+1987,Human Resources,Human Resources,1,Travel_Rarely,No
+1989,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+1992,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+1993,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+1994,Research & Development,Laboratory Technician,1,Non-Travel,No
+1995,Sales,Sales Executive,2,Travel_Rarely,No
+1996,Sales,Sales Representative,1,Travel_Rarely,No
+1997,Research & Development,Manufacturing Director,2,Travel_Frequently,No
+1998,Research & Development,Research Scientist,2,Travel_Rarely,Yes
+1999,Research & Development,Research Scientist,1,Travel_Rarely,No
+2000,Research & Development,Research Director,3,Non-Travel,No
+2003,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes
+2007,Research & Development,Research Scientist,1,Travel_Rarely,No
+2008,Research & Development,Research Scientist,2,Travel_Rarely,No
+2009,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes
+2010,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+2012,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+2013,Sales,Sales Representative,1,Travel_Rarely,No
+2014,Research & Development,Research Scientist,2,Travel_Rarely,No
+2015,Research & Development,Research Director,3,Travel_Rarely,No
+2016,Sales,Sales Executive,3,Travel_Rarely,No
+2017,Research & Development,Research Director,3,Travel_Rarely,Yes
+2018,Sales,Sales Executive,2,Travel_Rarely,Yes
+2019,Sales,Sales Representative,1,Non-Travel,No
+2020,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+2021,Sales,Sales Representative,1,Travel_Rarely,Yes
+2022,Research & Development,Manager,5,Non-Travel,No
+2023,Sales,Sales Representative,1,Travel_Frequently,No
+2024,Sales,Sales Executive,3,Travel_Rarely,No
+2025,Research & Development,Manufacturing Director,2,Travel_Frequently,No
+2026,Research & Development,Healthcare Representative,2,Non-Travel,No
+2027,Research & Development,Research Scientist,1,Travel_Rarely,Yes
+2031,Research & Development,Manager,5,Travel_Rarely,No
+2032,Research & Development,Laboratory Technician,1,Travel_Rarely,No
+2034,Research & Development,Manufacturing Director,4,Travel_Rarely,No
+2035,Sales,Sales Executive,2,Travel_Rarely,No
+2036,Sales,Sales Executive,2,Non-Travel,No
+2037,Sales,Sales Executive,2,Travel_Rarely,No
+2038,Research & Development,Research Scientist,1,Travel_Rarely,No
+2040,Human Resources,Human Resources,3,Travel_Rarely,Yes
+2041,Sales,Sales Executive,2,Travel_Rarely,No
+2044,Sales,Sales Executive,2,Travel_Frequently,No
+2045,Sales,Sales Executive,2,Travel_Rarely,No
+2046,Sales,Sales Executive,2,Travel_Rarely,No
+2048,Research & Development,Research Scientist,1,Travel_Rarely,No
+2049,Research & Development,Healthcare Representative,2,Travel_Frequently,Yes
+2051,Research & Development,Research Scientist,1,Travel_Rarely,No
+2052,Research & Development,Research Scientist,1,Travel_Rarely,No
+2053,Research & Development,Laboratory Technician,2,Travel_Rarely,Yes
+2054,Research & Development,Research Scientist,1,Travel_Rarely,No
+2055,Sales,Sales Executive,3,Travel_Rarely,Yes
+2056,Sales,Sales Executive,4,Travel_Rarely,No
+2057,Research & Development,Manufacturing Director,2,Non-Travel,No
+2060,Sales,Sales Representative,1,Travel_Rarely,No
+2061,Research & Development,Laboratory Technician,2,Travel_Frequently,No
+2062,Research & Development,Healthcare Representative,3,Travel_Rarely,No
+2064,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes
+2065,Sales,Sales Executive,2,Travel_Frequently,No
+2068,Research & Development,Laboratory Technician,2,Travel_Rarely,No
