@@ -7,5 +7,5 @@ En el presente proyecto se analiza el problema de rotación de personal que pres
 La vertiente de "Inteligencia de negocios" requirió de un proceso de ingeniería más amplio, por lo que dentro de dicha carpeta encontrará los dashboards antes mencionados, archivos ".ipynb", archivos ".sql", un par de imágenes muestra de los dasboard/reportes, así como el documento descriptivo de cómo se realizó el proyecto.
 
 
--NOTA: Toda la investigación se desarrolló durante el punto 1 , en el archivo ".ipynb".
+-NOTA: Toda la investigación se desarrolló durante el punto 1 "Vertiente de Ciencia de Datos" , en el archivo ".ipynb".
 
