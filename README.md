@@ -1,4 +1,4 @@
-En el presente proyecto se analiza el problema de rotación de personal que presenta IBM desde dos perspectivas:
+En el presente proyecto se analiza el problema de rotación de personal que presenta la compañía IBM & Co desde dos perspectivas:
 
 1.- Ciencia de datos: Dónde a través de algoritmos de machine learning ejecutados apartir del lenguaje de programación python se hace la predicción de qué características tienen los colaboradores propensos a dejar la compañía. Dicho análisis se encuentra en la carpeta "Vertiente de Ciencia de Datos". Dentro de dicha carpeta encontrará el archivo ".ipynb", el cuál es autodescriptivo, llevando paso a paso el desarrollo del proyecto. Además encontrará los datos con los que se ha llevado a cabo el proyecto, así como una presentación en formato PDF acerca dónde se plantea de manera resumida el problema, como se desarrolló el proyecto y las posibles soluciones.
 
